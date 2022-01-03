@@ -5,3 +5,5 @@ Chapter 1
 - Awkward dinner. Then the party breaks up.
 - Tom and Daisy hint that he should date Jordan.
 - Nick goes home and sees Gatsby for the first time.
+
+- Added more changes ...
